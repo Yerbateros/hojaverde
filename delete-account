@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solicitud de Eliminación de Cuenta - Yerbateros</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            max-width: 800px;
+            margin: 20px auto;
+            color: #333;
+        }
+        h1 {
+            color: #1a73e8;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #333;
+            margin-top: 30px;
+        }
+        ol {
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 20px;
+        }
+        .importante {
+            border: 1px solid #f00;
+            padding: 15px;
+            background-color: #fdd;
+            color: #c00;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Procedimiento para la Eliminación de Datos y Cuenta de Yerbateros</h1>
+    <p>La aplicación **Yerbateros** se compromete a respetar su privacidad. Si desea eliminar de forma permanente su cuenta y todos los datos asociados, siga los siguientes pasos:</p>
+
+    <ol>
+        <li>
+            <h2>1. Identificar la cuenta a borrar</h2>
+            <p>Antes de enviar la solicitud, asegúrese de **identificar el nombre y la dirección de correo electrónico** exactos vinculados a la cuenta de Yerbateros que desea eliminar.</p>
+        </li>
+        <li>
+            <h2>2. Enviar el correo electrónico de solicitud</h2>
+            <p>Debe enviar un correo electrónico con los siguientes requisitos:</p>
+            <ul>
+                <li>**Dirección de destino:** <a href="mailto:hojaverdeonline.info@gmail.com">hojaverdeonline.info@gmail.com</a></li>
+                <li>**Asunto (Título) del email:** "Eliminar cuenta"</li>
+                <li>**Cuerpo del email:** Indique claramente el **Nombre** y la **Dirección de Email** de la cuenta que solicita borrar.</li>
+            </ul>
+            <p><em>Ejemplo de cuerpo de email:</em><br>
+            "Solicito la eliminación de la cuenta de Hojaverde asociada a:<br>
+            Nombre: [Su nombre completo]<br>
+            Email: [su.email@ejemplo.com]"</p>
+        </li>
+        <li>
+            <h2>3. Confirmación y Plazo de Eliminación</h2>
+            <p>Una vez recibida y procesada su solicitud:</p>
+            <div class="importante">
+                <p>Su cuenta y toda la información personal asociada serán eliminadas de nuestros sistemas en un **plazo máximo de 30 días** a partir de la confirmación de su solicitud.</p>
+            </div>
+            <p>Recibirá un correo de confirmación una vez que el proceso de eliminación haya finalizado.</p>
+        </li>
+    </ol>
+    
+    <p style="margin-top: 40px; text-align: center;">Gracias por haber utilizado Yerbateros</p>
+
+</body>
+</html>
